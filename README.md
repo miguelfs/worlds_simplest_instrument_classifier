@@ -12,3 +12,20 @@ The samples includes:
 - Bell, played with plastic and brass mallet
 - Violin, with arco and pizzicato (from the samples I heard, without vibrato, but not explicit in their website)
 - Viola, with arco and pizzicato (same condition as Violin)
+
+at July 5th, 2020, these were the results:
+
+              precision    recall  f1-score   support
+
+     AltoSax       0.64      0.52      0.57        95
+       Bells       0.74      0.60      0.66       131
+       Flute       0.66      0.68      0.67        59
+        Horn       0.87      0.80      0.83        59
+     Marimba       0.86      0.74      0.79        42
+      SopSax       0.33      0.58      0.42        12
+       Viola       0.74      0.62      0.68        96
+      Violin       0.85      0.93      0.89       611
+
+    accuracy                           0.80      1105
+    macro avg      0.71      0.68      0.69      1105
+    weighted avg   0.79      0.80      0.79      1105
