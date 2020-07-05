@@ -3,6 +3,7 @@
 This Jupyter Notebook regards how to pre-process an audio recording dataset, slicing all musical instrument samples in one second duration samples, transforms them in a time-frequency representation with Constant-Q Transform (CQT), to finally train a simple logistic regression classifier.
 
 All these samples were taken from University of Iowa Electronic Music Studios: http://theremin.music.uiowa.edu/MIS.html
+
 The samples includes single-notes recorded these instruments:
 - Alto Saxophone, without vibrato
 - Soprano Saxophone, without vibrato (Soprano sounds higher than Alto)
