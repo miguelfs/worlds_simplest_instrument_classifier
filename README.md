@@ -4,6 +4,13 @@ This Jupyter Notebook regards how to pre-process an audio recording dataset, sli
 
 All these samples were taken from University of Iowa Electronic Music Studios: http://theremin.music.uiowa.edu/MIS.html
 
+As an example, you can find flute samples by navigating through:
+<img width="544" alt="image" src="https://user-images.githubusercontent.com/10662585/136027024-a69ebd65-46df-4093-85ce-a8d28a57983b.png">
+
+and then, you can download them by selecting the .zip file:
+<img width="934" alt="image" src="https://user-images.githubusercontent.com/10662585/136027312-010037ab-4c0a-46af-86de-071e5998088f.png">
+
+
 The samples includes single-notes recorded from these instruments:
 - Alto Saxophone, without vibrato
 - Soprano Saxophone, without vibrato (Soprano sounds higher than Alto)
